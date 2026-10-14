@@ -14,7 +14,7 @@
 
 window.LOJA = {
   nome: "Mesa Decor",
-  slogan: "Decoração para deixar a casa com a sua cara",
+  slogan: "Casa & Decoração",
   cidade: "Rio Brilhante - MS",
   whatsapp: "5567999378619",           // 55 + DDD + número
   whatsappExibicao: "(67) 99937-8619",
@@ -26,8 +26,8 @@ window.LOJA = {
 window.CATEGORIAS = ["Itens natalinos"];
 
 window.PRODUTOS = [
-  { id: "nat-01", nome: "Bola decorada 6 pcs",  categoria: "Itens natalinos", preco: 33.0,   descricao: "", foto: "", destaque: false, disponivel: true },
-  { id: "nat-02", nome: "Bola decorada 3 pcs",  categoria: "Itens natalinos", preco: 72.81,  descricao: "", foto: "", destaque: false, disponivel: true },
-  { id: "nat-03", nome: "Bola decorada 4 pcs",  categoria: "Itens natalinos", preco: 45.0,   descricao: "", foto: "", destaque: false, disponivel: true },
-  { id: "nat-04", nome: "Bola decorada 24 pcs", categoria: "Itens natalinos", preco: 126.0,  descricao: "", foto: "", destaque: false, disponivel: true }
+  { id: "nat-01", nome: "Bola decorada 6 pcs",  categoria: "Itens natalinos", preco: 33.0,   descricao: "", foto: "",destaque: false, disponivel: true },
+  { id: "nat-02", nome: "Bola decorada 3 pcs",  categoria: "Itens natalinos", preco: 72.81,  descricao: "", foto: "",destaque: false, disponivel: true },
+  { id: "nat-03", nome: "Bola decorada 4 pcs",  categoria: "Itens natalinos", preco: 45.0,   descricao: "", foto: "",destaque: false, disponivel: true },
+  { id: "nat-04", nome: "Bola decorada 24 pcs", categoria: "Itens natalinos", preco: 126.0,  descricao: "", foto: "",destaque: false, disponivel: true }
 ];
